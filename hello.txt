@@ -2,5 +2,7 @@ Good Morning !
 Today we are learning Git..
 
 
-now Dev1 is working on this file
+now Dev1 is working on this file 
+
+dev 2 also working on this 
  
