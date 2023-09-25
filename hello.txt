@@ -2,7 +2,11 @@ Good Morning !
 Today we are learning Git..
 
 
+
+dev 2 also working on this 
+
 now Dev1 is working on this file
 
 and made some changes
+
  
